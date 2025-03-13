@@ -1,6 +1,8 @@
-Testtest 222222222222222222222222
-Testtest 222222222222222222222222
-Testtest 222222222222222222222222
-Testtest 222222222222222222222222
-Testtest 222222222222222222222222
-Testtest 222222222222222222222222
+Standardowy merge:
+Merge został wykonany jako fast forward, co oznacza, że feature-1 został po prostu przesunięty na main.
+
+Squash merge:
+Git połączył wszystkie commity z feature-1, ale nie dodał ich do historii jako osobnych commitów.
+
+Rebase i merge:
+Historia commitów została przeniesiona na main, tak jakby feature-1 zostało stworzone po ostatnim commicie z main.
